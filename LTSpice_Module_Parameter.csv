@@ -1,0 +1,4 @@
+;Module_ID;module_type;module_length in cm;module_width in cm;n_stings_per_modul;n_waver_per_string;ISC in A;shunt_resistance in Ohm;good_diode_reverse_leakage_current in nA;bad_diode_reverse_leakage_current in nA;good_diode_N;bad_diode_N;serial_resistance in Ohm
+0;Test123;full-cell_module;30;60;3;20;5.17;100;1.00E-09;1.00E-09;2;1;0.1
+1;Canadian250;full-cell_module;98;1588;3;20;8.87;100;1.00E-15;3.00E-10;2;1;0.00223
+2;Erlangen_006;full-cell_module;60;120;3;24;5.25;100;1.00E-07;5.00E-08;3;1.28;1.58E-02
