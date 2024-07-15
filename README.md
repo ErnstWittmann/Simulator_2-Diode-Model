@@ -15,7 +15,8 @@ The following Tutorial will show you, how you can use this tool writen for pyhto
 4. Copy the two Cells of the "Tutorial File" into the Colab Cells.
    ![grafik](https://github.com/user-attachments/assets/aa07568e-dc3b-41cd-9ae9-2424c11af4d1)
 
-5. Everywhere you can see an commented arrow you can change the parameter.
+5. Everywhere you can see an commented arrow you can change the parameter as you can see in the image below.
+   ![grafik](https://github.com/user-attachments/assets/51f3e57c-5bf1-424d-af54-9553a259a71d)
 
 
    
